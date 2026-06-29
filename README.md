@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0217-contains-duplicate) |
 | [1089-duplicate-zeros](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1089-duplicate-zeros) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0242-valid-anagram) |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0202-happy-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

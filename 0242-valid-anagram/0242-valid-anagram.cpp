@@ -2,11 +2,11 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         if(s.size()!=t.size()) return false;
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
         int i = 0;
-        for(char str:s){
-            if(str!=t[i]) return false;
+        for(char p:s){
+            long long idx = t.find(p);
+            if(idx==string::npos) return false;
+            t.erase(idx,1);
             i++;
         }
         return true;

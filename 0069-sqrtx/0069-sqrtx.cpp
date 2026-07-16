@@ -5,14 +5,10 @@ public:
         bool flag = false;
         while(low<=high){
             long long mid = low + abs(low-high)/2;
-            if(mid*mid == x) {
-                flag = true;
-                return mid;
-            }
+            if(mid*mid == x) return mid;
             else if(mid*mid > x) high = mid - 1;
             else low = mid + 1;
         }
-        if(!flag) return high;
-        return 0;
+        return high;
     }
 };

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0258-add-digits) |
 | [2469-convert-the-temperature](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2469-convert-the-temperature) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Union-Find
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

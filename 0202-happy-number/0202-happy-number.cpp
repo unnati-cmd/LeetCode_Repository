@@ -1,16 +1,16 @@
 class Solution {
 public:
     bool isHappy(int res) {
-        unordered_map<int,int> mp;
+        unordered_set<int> mp;
         while(true){
-            mp[res]++;
+            mp.insert(res);
             int sum = 0;
             while(res){
-                sum += pow(res%10,2);
+                sum += (res%10 * (res%10));
                 res/=10;
             }
             if(sum == 1) return true;
-            if(mp.find(sum)!=mp.end()) return false;
+            if(mp.count(sum)) return false;
             res = sum;
         }
         return false;

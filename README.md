@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1837-sum-of-digits-in-base-k](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1837-sum-of-digits-in-base-k) |
 | [2469-convert-the-temperature](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Union-Find
 |  |

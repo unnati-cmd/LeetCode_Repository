@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1837-sum-of-digits-in-base-k](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1837-sum-of-digits-in-base-k) |
@@ -152,9 +153,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

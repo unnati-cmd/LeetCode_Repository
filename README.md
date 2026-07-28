@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1301-number-of-paths-with-max-score) |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0202-happy-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1089-duplicate-zeros) |
 ## Math
 |  |

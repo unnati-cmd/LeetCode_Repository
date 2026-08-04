@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0347-top-k-frequent-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3731-find-missing-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |

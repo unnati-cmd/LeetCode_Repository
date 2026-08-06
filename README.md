@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1323-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1837-sum-of-digits-in-base-k](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1837-sum-of-digits-in-base-k) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2469-convert-the-temperature](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0258-add-digits) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Number Theory
 |  |
 | ------- |

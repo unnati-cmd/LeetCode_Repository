@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0183-customers-who-never-order) |
+| [0197-rising-temperature](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1148-article-views-i) |

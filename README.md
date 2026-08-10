@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0347-top-k-frequent-elements) |
+| [0643-maximum-average-subarray-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1089-duplicate-zeros) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |

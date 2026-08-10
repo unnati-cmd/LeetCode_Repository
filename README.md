@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2090-k-radius-subarray-averages](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2090-k-radius-subarray-averages) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2090-k-radius-subarray-averages](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2090-k-radius-subarray-averages) |
 ## Binary Search
 |  |
 | ------- |

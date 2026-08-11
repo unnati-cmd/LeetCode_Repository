@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2090-k-radius-subarray-averages](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2090-k-radius-subarray-averages) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0383-ransom-note) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1512-number-of-good-pairs) |
 | [3731-find-missing-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1323-maximum-69-number) |
+| [1512-number-of-good-pairs](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1837-sum-of-digits-in-base-k](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1837-sum-of-digits-in-base-k) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0383-ransom-note) |
+| [1512-number-of-good-pairs](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1512-number-of-good-pairs) |
 ## Quickselect
 |  |
 | ------- |

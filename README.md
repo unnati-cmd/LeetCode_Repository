@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0383-ransom-note) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0242-valid-anagram) |

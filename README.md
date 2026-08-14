@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0041-first-missing-positive) |
 | [0119-pascals-triangle-ii](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0704-binary-search) |

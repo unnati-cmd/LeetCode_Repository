@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0041-first-missing-positive) |
+| [0119-pascals-triangle-ii](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1301-number-of-paths-with-max-score](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3620-network-recovery-pathways) |

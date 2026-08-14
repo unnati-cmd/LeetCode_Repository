@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0595-big-countries) |
+| [0601-human-traffic-of-stadium](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0601-human-traffic-of-stadium) |
 | [0620-not-boring-movies](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1075-project-employees-i) |

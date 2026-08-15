@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1148-article-views-i) |
 | [1164-product-price-at-a-given-date](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1164-product-price-at-a-given-date) |
 | [1193-monthly-transactions-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1193-monthly-transactions-i) |

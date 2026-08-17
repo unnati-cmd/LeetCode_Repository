@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2090-k-radius-subarray-averages](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2090-k-radius-subarray-averages) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3024-type-of-triangle](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3620-network-recovery-pathways) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3024-type-of-triangle](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2469-convert-the-temperature](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3024-type-of-triangle](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Union-Find
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0164-maximum-gap) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3620-network-recovery-pathways) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3861-minimum-capacity-box) |
 ## String
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1512-number-of-good-pairs) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |

@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3024-type-of-triangle](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Union-Find
 |  |

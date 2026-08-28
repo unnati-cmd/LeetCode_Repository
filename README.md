@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0383-ransom-note) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2090-k-radius-subarray-averages) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Binary Search
 |  |
 | ------- |

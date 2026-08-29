@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1795-rearrange-products-table) |
+| [3436-find-valid-emails](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3436-find-valid-emails) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |

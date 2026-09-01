@@ -13,20 +13,21 @@ public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         vector<int> v;
         ListNode* temp1;
-        for(ListNode* i : lists){
+        for (ListNode* i : lists) {
             temp1 = i;
-            while(temp1!=nullptr){
+            while (temp1 != nullptr) {
                 v.push_back(temp1->val);
-                temp1=temp1->next;
+                temp1 = temp1->next;
             }
         }
-        if(v.empty()) return nullptr;
-        sort(v.begin(),v.end());
-        int n = v.size()-1;
-        ListNode* temp=new ListNode(v[0]);
+        if (v.empty())
+            return nullptr;
+        sort(v.begin(), v.end());
+        int n = v.size() - 1;
+        ListNode* temp = new ListNode(v[0]);
         ListNode* head = temp;
         int i = 1;
-        while(n--){
+        while (n--) {
             ListNode* temp1 = new ListNode(v[i++]);
             temp->next = temp1;
             temp = temp->next;

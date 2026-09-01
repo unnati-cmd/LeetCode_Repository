@@ -140,12 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -322,4 +324,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3024-type-of-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

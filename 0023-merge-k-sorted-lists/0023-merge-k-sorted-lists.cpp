@@ -24,7 +24,6 @@ public:
         sort(v.begin(),v.end());
         int n = v.size()-1;
         ListNode* temp=new ListNode(v[0]);
-        temp->val = v[0];
         ListNode* head = temp;
         int i = 1;
         while(n--){

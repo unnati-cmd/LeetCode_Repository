@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1512-number-of-good-pairs) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0023-merge-k-sorted-lists) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Merge Sort
 |  |
 | ------- |

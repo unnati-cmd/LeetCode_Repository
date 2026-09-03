@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1089-duplicate-zeros) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0061-rotate-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Merge Sort
 |  |

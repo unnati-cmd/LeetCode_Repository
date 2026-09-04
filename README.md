@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3861-minimum-capacity-box) |
+| [3903-smallest-stable-index-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3903-smallest-stable-index-i) |
 ## Radix Sort
 |  |
 | ------- |

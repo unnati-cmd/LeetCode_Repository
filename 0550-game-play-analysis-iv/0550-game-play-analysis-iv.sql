@@ -4,7 +4,7 @@ with cte as (
         player_id,
         device_id,
         event_date,
-        lag(event_date) over(partition by player_id order by event_date) as Next_Date,
+        lead(event_date) over(partition by player_id order by event_date) as Next_Date,
         row_number() over(partition by player_id order by event_date) as rn
     from Activity
 )
@@ -14,4 +14,4 @@ select
         from Activity
     ),2) as fraction
 from cte c
-where datediff(c.event_date,Next_Date) = 1 and rn = 2
+where datediff(c.event_date,Next_Date) = -1 and rn = 1

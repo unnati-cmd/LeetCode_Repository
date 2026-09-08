@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3870-count-commas-in-range](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3870-count-commas-in-range) |
 ## Union-Find
 |  |
 | ------- |

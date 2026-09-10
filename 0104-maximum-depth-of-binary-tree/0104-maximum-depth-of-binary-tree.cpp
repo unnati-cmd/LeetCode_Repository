@@ -12,7 +12,6 @@
  */
 class Solution {
 public:
-    int maximum = 0;
     int solve(TreeNode* root) {
         if (root == NULL)
             return 0;

@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Simulation
 |  |
@@ -386,4 +387,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0143-reorder-list) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->

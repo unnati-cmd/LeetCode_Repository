@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1512-number-of-good-pairs) |
 ## Quickselect
 |  |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |

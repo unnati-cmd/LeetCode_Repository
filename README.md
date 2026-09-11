@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3024-type-of-triangle](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3024-type-of-triangle) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1089-duplicate-zeros) |
 ## Math
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3620-network-recovery-pathways) |

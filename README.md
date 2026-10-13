@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/0143-reorder-list) |
+| [1021-remove-outermost-parentheses](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -440,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/unnati-cmd/LeetCode_Repository/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

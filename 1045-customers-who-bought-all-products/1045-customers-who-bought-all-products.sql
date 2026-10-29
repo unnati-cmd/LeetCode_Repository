@@ -1,10 +1,16 @@
-# Write your MySQL query statement below
-select customer_id
-from Customer c
-join Product p
-    on c.product_key = p.product_key
-group by c.customer_id
-having count(distinct p.product_key) = (
-    select count(distinct p1.product_key)
-    from Product p1
+/* Write your T-SQL query statement below */
+with cte as (
+    select
+        c.customer_id,
+        count(distinct product_key) as cnt
+    from customer c
+    group by c.customer_id
+),
+cte2 as (
+    select count(product_key) as keys
+    from product
 )
+select
+    customer_id
+from cte cross join cte2
+where cnt = keys

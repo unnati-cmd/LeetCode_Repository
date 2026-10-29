@@ -1,17 +1,18 @@
-# Write your MySQL query statement below
+/* Write your T-SQL query statement below */
 with cte as (
-    select 
+    select
         player_id,
-        device_id,
         event_date,
-        lead(event_date) over(partition by player_id order by event_date) as Next_Date,
+        lead(event_date) over(partition by player_id order by event_date) as leading_date,
         row_number() over(partition by player_id order by event_date) as rn
-    from Activity
+    from activity
 )
 select 
-    round(count(player_id) / (
-        select count(distinct player_id)
-        from Activity
-    ),2) as fraction
-from cte c
-where datediff(c.event_date,Next_Date) = -1 and rn = 1
+    round(sum(
+        case 
+            when datediff(day,event_date,leading_date)=1 then 1
+            else 0
+        end
+    )*1.0/count(player_id),2) as fraction
+from cte
+where rn = 1

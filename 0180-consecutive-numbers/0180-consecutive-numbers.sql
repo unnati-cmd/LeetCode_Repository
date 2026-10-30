@@ -1,10 +1,11 @@
-# Write your MySQL query statement below
-Select distinct t.num as ConsecutiveNums
-from(
-    SELECT 
-    id,
-    num,
-    LAG(num) OVER (ORDER BY id) AS previous_day,
-    LEAD(num) OVER (ORDER BY id) AS next_day
-FROM Logs)t
-where t.num = t.previous_day and t.num = t.next_day;
+/* Write your T-SQL query statement below */
+with cte as (
+    select
+        lag(num) over(order by id) as lag,
+        num,
+        lead(num) over(order by id) as lead
+    from logs
+)
+select distinct num as ConsecutiveNums
+from cte
+where lag = num and num = lead;

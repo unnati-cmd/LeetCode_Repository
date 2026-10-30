@@ -1,19 +1,27 @@
-with cte1 as (
-    select distinct product_id
-    from Products
-),
-cte2 as(
-    select product_id,
-    max(change_date) as change_date
-    from Products
+# Write your MySQL query statement below
+with cte as (
+    select *,
+        case
+            when change_date<='2019-08-16' then new_price
+            else 10
+        end as price
+    from products
     where change_date<='2019-08-16'
-    group by product_id
+),
+cte2 as (
+    select 
+        p.product_id,
+        case
+            when c.price is null then 10
+            else c.price
+        end as price,
+        row_number() over(partition by p.product_id order by c.change_date desc) as rn
+    from products p
+    left join cte c
+        on p.product_id = c.product_id
 )
-
-select cte1.product_id,
-isnull(p.new_price,10) as price
-from cte1
-left join cte2
-on cte1.product_id = cte2.product_id
-left join Products p
-on cte2.change_date = p.change_date and p.product_id = cte2.product_id;
+select 
+    product_id,
+    price
+from cte2
+where rn = 1
